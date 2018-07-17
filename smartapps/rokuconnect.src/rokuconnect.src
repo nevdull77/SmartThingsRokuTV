@@ -14,7 +14,7 @@
  *
  */
 definition(
-    name: "Roku (Connect)",
+    name: "RokuConnect",
     namespace: "madmouse",
     author: "Leslie Drewery",
     description: "Manage Roku Devices ",

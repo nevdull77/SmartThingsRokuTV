@@ -14,7 +14,7 @@
  *
  */
 metadata {
-	definition (name: "Roku", namespace: "madmouse", author: "Leslie Drewery") {
+	definition (name: "RokuTV", namespace: "madmouse", author: "Leslie Drewery") {
     	capability "Actuator"
 		capability "Sensor"
         capability "Refresh"             
